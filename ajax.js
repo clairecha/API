@@ -35,6 +35,7 @@ ajaxGet('https://restcountries.eu/rest/v2/all', function (response) {
   });
   ul.innerHTML = newli;
 });
+console.log('thomas');
 
 function myFunction() {
   input = document.getElementById('myInput');
