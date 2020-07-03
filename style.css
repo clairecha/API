@@ -44,9 +44,7 @@ nav a {
   display: flex;
   flex-direction: column;
 }
-#myUL {
-  height: 70vh;
-}
+
 img {
   height: 120px;
   vertical-align: middle;
@@ -69,7 +67,7 @@ footer {
 }
 ul {
   width: 40%;
-  height: 400vh;
+
   display: flex;
   flex-direction: column;
 }
